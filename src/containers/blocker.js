@@ -24,9 +24,10 @@ const Block = styled.div`
 `;
 
 const Robbers = styled.img`
-  width: 75%;
+  width: 35%;
   @media (max-width: 450px) {
     {
+      width: 75%;
         transform: scale(1.5) ;
     }
 `;
