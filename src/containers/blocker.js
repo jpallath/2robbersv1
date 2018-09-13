@@ -24,7 +24,7 @@ const Block = styled.div`
 `;
 
 const Robbers = styled.img`
-  width: 35%;
+  width: 55%;
   @media (max-width: 450px) {
     {
       width: 75%;
